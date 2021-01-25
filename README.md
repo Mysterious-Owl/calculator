@@ -4,7 +4,7 @@
 Here we tried to make a calculator which is able to perform various actions and it also support decimal numbers. We designed both hardware and software of the calculator, as both the things should be accurate and fast to provide accurate results in efficient time. It has OLED screen to show the numbers we type and to show the result. It can be implemented physically on a 10 cm by 4.2 cm, which is small comparatively to present calculators, which make it handy and easy to carry. It has total 24 buttons, out of which 10
 denotes numbers “0, 1, 2, 3, 4 … 9” and one button for decimal point “.” and other for several other use, as stated.
 
-### It has total 7 operands, which can be performed, which are –
+### It has total 7 operator, which can be performed, which are –
 
 * \+ add
 * \- subtract
